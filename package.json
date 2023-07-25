@@ -1,0 +1,14 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "this is an application to create a readme file using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Francisco Jr",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  }
+}
